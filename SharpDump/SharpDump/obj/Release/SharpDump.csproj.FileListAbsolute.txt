@@ -1,0 +1,6 @@
+D:\protect\CSharp\SharpDump\SharpDump\bin\Release\SharpDump.exe.config
+D:\protect\CSharp\SharpDump\SharpDump\bin\Release\SharpDump.exe
+D:\protect\CSharp\SharpDump\SharpDump\bin\Release\SharpDump.pdb
+D:\protect\CSharp\SharpDump\SharpDump\obj\Release\SharpDump.csprojResolveAssemblyReference.cache
+D:\protect\CSharp\SharpDump\SharpDump\obj\Release\SharpDump.exe
+D:\protect\CSharp\SharpDump\SharpDump\obj\Release\SharpDump.pdb

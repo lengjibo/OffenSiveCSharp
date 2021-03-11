@@ -1,0 +1,5 @@
+D:\protect\CSharp\SharpDump\SharpDump\bin\x64\Release\SharpDump.exe.config
+D:\protect\CSharp\SharpDump\SharpDump\bin\x64\Release\SharpDump.exe
+D:\protect\CSharp\SharpDump\SharpDump\bin\x64\Release\SharpDump.pdb
+D:\protect\CSharp\SharpDump\SharpDump\obj\x64\Release\SharpDump.exe
+D:\protect\CSharp\SharpDump\SharpDump\obj\x64\Release\SharpDump.pdb
