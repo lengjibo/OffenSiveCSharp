@@ -1,0 +1,6 @@
+D:\protect\CSharp\ReflectionB64\ReflectionB64\bin\x64\Release\ReflectionB64.exe.config
+D:\protect\CSharp\ReflectionB64\ReflectionB64\bin\x64\Release\ReflectionB64.exe
+D:\protect\CSharp\ReflectionB64\ReflectionB64\bin\x64\Release\ReflectionB64.pdb
+D:\protect\CSharp\ReflectionB64\ReflectionB64\obj\x64\Release\ReflectionB64.csprojResolveAssemblyReference.cache
+D:\protect\CSharp\ReflectionB64\ReflectionB64\obj\x64\Release\ReflectionB64.exe
+D:\protect\CSharp\ReflectionB64\ReflectionB64\obj\x64\Release\ReflectionB64.pdb
