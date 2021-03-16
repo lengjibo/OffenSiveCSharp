@@ -1,0 +1,235 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.0": {
+      "Costura.Fody/5.0.2": {
+        "type": "package",
+        "build": {
+          "build/Costura.Fody.props": {}
+        }
+      },
+      "DInvoke/1.0.4": {
+        "type": "package",
+        "compile": {
+          "lib/net35/DInvoke.dll": {}
+        },
+        "runtime": {
+          "lib/net35/DInvoke.dll": {}
+        }
+      },
+      "Fody/6.4.0": {
+        "type": "package",
+        "build": {
+          "build/Fody.targets": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.0/win": {
+      "Costura.Fody/5.0.2": {
+        "type": "package",
+        "build": {
+          "build/Costura.Fody.props": {}
+        }
+      },
+      "DInvoke/1.0.4": {
+        "type": "package",
+        "compile": {
+          "lib/net35/DInvoke.dll": {}
+        },
+        "runtime": {
+          "lib/net35/DInvoke.dll": {}
+        }
+      },
+      "Fody/6.4.0": {
+        "type": "package",
+        "build": {
+          "build/Fody.targets": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.0/win-x64": {
+      "Costura.Fody/5.0.2": {
+        "type": "package",
+        "build": {
+          "build/Costura.Fody.props": {}
+        }
+      },
+      "DInvoke/1.0.4": {
+        "type": "package",
+        "compile": {
+          "lib/net35/DInvoke.dll": {}
+        },
+        "runtime": {
+          "lib/net35/DInvoke.dll": {}
+        }
+      },
+      "Fody/6.4.0": {
+        "type": "package",
+        "build": {
+          "build/Fody.targets": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.0/win-x86": {
+      "Costura.Fody/5.0.2": {
+        "type": "package",
+        "build": {
+          "build/Costura.Fody.props": {}
+        }
+      },
+      "DInvoke/1.0.4": {
+        "type": "package",
+        "compile": {
+          "lib/net35/DInvoke.dll": {}
+        },
+        "runtime": {
+          "lib/net35/DInvoke.dll": {}
+        }
+      },
+      "Fody/6.4.0": {
+        "type": "package",
+        "build": {
+          "build/Fody.targets": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Costura.Fody/5.0.2": {
+      "sha512": "9jqxHn5ab8Kp8t1GKrt5517uhTPwwE0OBNjBFO4UcEBVIYJrjQMjnZVmU4NbFx7BVYZB2Mhkik7YRV7sfQgyeA==",
+      "type": "package",
+      "path": "costura.fody/5.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Costura.Fody.5.0.2.nupkg.sha512",
+        "Costura.Fody.nuspec",
+        "build/Costura.Fody.props",
+        "icon.png",
+        "lib/netstandard1.0/Costura.dll",
+        "lib/netstandard1.0/Costura.pdb",
+        "lib/netstandard1.0/Costura.xml",
+        "netclassicweaver/Costura.Fody.dll",
+        "netclassicweaver/Costura.Fody.xcf",
+        "netstandardweaver/Costura.Fody.dll",
+        "netstandardweaver/Costura.Fody.xcf"
+      ]
+    },
+    "DInvoke/1.0.4": {
+      "sha512": "oxncKPfjcr1/6LQO6ndducvxKh4zEM7Dm/s3wMS8RTlTSilClfZcbykykPzY0+kdphfTZU+ekzdDCqOOlhP7gg==",
+      "type": "package",
+      "path": "dinvoke/1.0.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "DInvoke.1.0.4.nupkg.sha512",
+        "DInvoke.nuspec",
+        "lib/net35/DInvoke.dll"
+      ]
+    },
+    "Fody/6.4.0": {
+      "sha512": "5cgK5htSklGmBTR8Bj/xvTGrxTINj18QY9S1rAu1G5QX9NAzK9lAB0TugUPdeSGmktW82R3gMj2NNnTgicMwsg==",
+      "type": "package",
+      "path": "fody/6.4.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "License.txt",
+        "build/Fody.targets",
+        "fody.6.4.0.nupkg.sha512",
+        "fody.nuspec",
+        "netclassictask/Fody.dll",
+        "netclassictask/FodyCommon.dll",
+        "netclassictask/FodyHelpers.dll",
+        "netclassictask/FodyIsolated.dll",
+        "netclassictask/Mono.Cecil.Pdb.dll",
+        "netclassictask/Mono.Cecil.Pdb.pdb",
+        "netclassictask/Mono.Cecil.Rocks.dll",
+        "netclassictask/Mono.Cecil.Rocks.pdb",
+        "netclassictask/Mono.Cecil.dll",
+        "netclassictask/Mono.Cecil.pdb",
+        "netstandardtask/Fody.dll",
+        "netstandardtask/FodyCommon.dll",
+        "netstandardtask/FodyHelpers.dll",
+        "netstandardtask/FodyIsolated.dll",
+        "netstandardtask/Mono.Cecil.Pdb.dll",
+        "netstandardtask/Mono.Cecil.Pdb.pdb",
+        "netstandardtask/Mono.Cecil.Rocks.dll",
+        "netstandardtask/Mono.Cecil.Rocks.pdb",
+        "netstandardtask/Mono.Cecil.dll",
+        "netstandardtask/Mono.Cecil.pdb"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.0": [
+      "Costura.Fody >= 5.0.2",
+      "DInvoke >= 1.0.4",
+      "Fody >= 6.4.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\protect\\CSharp\\UuidShellcode\\UuidShellcode\\UuidShellcode.csproj",
+      "projectName": "UuidShellcode",
+      "projectPath": "D:\\protect\\CSharp\\UuidShellcode\\UuidShellcode\\UuidShellcode.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "D:\\protect\\CSharp\\UuidShellcode\\UuidShellcode\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net40"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net40": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net40": {
+        "dependencies": {
+          "Costura.Fody": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[5.0.2, )"
+          },
+          "DInvoke": {
+            "target": "Package",
+            "version": "[1.0.4, )"
+          },
+          "Fody": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[6.4.0, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

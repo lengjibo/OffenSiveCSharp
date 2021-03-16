@@ -1,0 +1,6 @@
+D:\protect\CSharp\UuidShellcode\UuidShellcode\bin\Debug\UuidShellcode.exe.config
+D:\protect\CSharp\UuidShellcode\UuidShellcode\bin\Debug\UuidShellcode.exe
+D:\protect\CSharp\UuidShellcode\UuidShellcode\bin\Debug\UuidShellcode.pdb
+D:\protect\CSharp\UuidShellcode\UuidShellcode\obj\Debug\UuidShellcode.csprojResolveAssemblyReference.cache
+D:\protect\CSharp\UuidShellcode\UuidShellcode\obj\Debug\UuidShellcode.exe
+D:\protect\CSharp\UuidShellcode\UuidShellcode\obj\Debug\UuidShellcode.pdb

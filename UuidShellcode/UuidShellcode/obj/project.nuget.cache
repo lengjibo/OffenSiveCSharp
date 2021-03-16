@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rOnJleQcmUeTPXyPVy1Rl/WvJu/bg3FCiKJLoM6PBDd++efk9h8Lq+zWk6GOwutYdJvcFChwzLNPaxxt5aZUyg==",
+  "success": true,
+  "projectFilePath": "D:\\protect\\CSharp\\UuidShellcode\\UuidShellcode\\UuidShellcode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\costura.fody\\5.0.2\\costura.fody.5.0.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\dinvoke\\1.0.4\\dinvoke.1.0.4.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\fody\\6.4.0\\fody.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

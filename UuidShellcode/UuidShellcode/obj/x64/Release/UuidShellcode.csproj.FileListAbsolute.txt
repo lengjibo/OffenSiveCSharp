@@ -1,0 +1,5 @@
+D:\protect\CSharp\UuidShellcode\UuidShellcode\bin\x64\Release\UuidShellcode.exe.config
+D:\protect\CSharp\UuidShellcode\UuidShellcode\bin\x64\Release\UuidShellcode.exe
+D:\protect\CSharp\UuidShellcode\UuidShellcode\obj\x64\Release\UuidShellcode.exe
+D:\protect\CSharp\UuidShellcode\UuidShellcode\obj\x64\Release\UuidShellcode.csproj.CoreCompileInputs.cache
+D:\protect\CSharp\UuidShellcode\UuidShellcode\obj\x64\Release\UuidShellcode.csproj.Fody.CopyLocal.cache
