@@ -1,0 +1,9 @@
+D:\protect\CSharp\SyscallCsharp\SyscallCsharp\bin\x64\Release\SyscallCsharp.exe.config
+D:\protect\CSharp\SyscallCsharp\SyscallCsharp\bin\x64\Release\SyscallCsharp.exe
+D:\protect\CSharp\SyscallCsharp\SyscallCsharp\bin\x64\Release\SyscallCsharp.pdb
+D:\protect\CSharp\SyscallCsharp\SyscallCsharp\bin\x64\Release\DInvoke.dll
+D:\protect\CSharp\SyscallCsharp\SyscallCsharp\obj\x64\Release\SyscallCsharp.exe
+D:\protect\CSharp\SyscallCsharp\SyscallCsharp\obj\x64\Release\SyscallCsharp.pdb
+D:\protect\CSharp\SyscallCsharp\SyscallCsharp\obj\x64\Release\SyscallCsharp.csprojAssemblyReference.cache
+D:\protect\CSharp\SyscallCsharp\SyscallCsharp\obj\x64\Release\SyscallCsharp.csproj.CoreCompileInputs.cache
+D:\protect\CSharp\SyscallCsharp\SyscallCsharp\obj\x64\Release\SyscallCsharp.csproj.CopyComplete
