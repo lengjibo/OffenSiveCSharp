@@ -1,0 +1,1 @@
+D:\protect\CSharp\AmsiBypass\AmsiBypass\bin\Release\AmsiBypass.exe.config

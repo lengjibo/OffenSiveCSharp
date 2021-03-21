@@ -1,0 +1,6 @@
+D:\protect\CSharp\AmsiBypass\AmsiBypass\bin\x64\Release\AmsiBypass.exe.config
+D:\protect\CSharp\AmsiBypass\AmsiBypass\bin\x64\Release\AmsiBypass.exe
+D:\protect\CSharp\AmsiBypass\AmsiBypass\bin\x64\Release\AmsiBypass.pdb
+D:\protect\CSharp\AmsiBypass\AmsiBypass\obj\x64\Release\AmsiBypass.exe
+D:\protect\CSharp\AmsiBypass\AmsiBypass\obj\x64\Release\AmsiBypass.pdb
+D:\protect\CSharp\AmsiBypass\AmsiBypass\obj\x64\Release\AmsiBypass.csprojResolveAssemblyReference.cache
