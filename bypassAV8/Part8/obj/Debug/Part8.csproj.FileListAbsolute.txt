@@ -1,0 +1,6 @@
+D:\protect\CSharp\bypassAV\Part8\Part8\bin\Debug\Part8.exe.config
+D:\protect\CSharp\bypassAV\Part8\Part8\bin\Debug\Part8.exe
+D:\protect\CSharp\bypassAV\Part8\Part8\bin\Debug\Part8.pdb
+D:\protect\CSharp\bypassAV\Part8\Part8\obj\Debug\Part8.csprojResolveAssemblyReference.cache
+D:\protect\CSharp\bypassAV\Part8\Part8\obj\Debug\Part8.exe
+D:\protect\CSharp\bypassAV\Part8\Part8\obj\Debug\Part8.pdb
