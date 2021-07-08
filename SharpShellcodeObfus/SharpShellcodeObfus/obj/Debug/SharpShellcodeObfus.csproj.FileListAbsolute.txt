@@ -1,0 +1,9 @@
+D:\protect\CSharp\SharpShellcodeObfus\SharpShellcodeObfus\bin\Debug\SharpShellcodeObfus.exe
+D:\protect\CSharp\SharpShellcodeObfus\SharpShellcodeObfus\bin\Debug\SharpShellcodeObfus.pdb
+D:\protect\CSharp\SharpShellcodeObfus\SharpShellcodeObfus\obj\Debug\SharpShellcodeObfus.csprojAssemblyReference.cache
+D:\protect\CSharp\SharpShellcodeObfus\SharpShellcodeObfus\obj\Debug\SharpShellcodeObfus.Form1.resources
+D:\protect\CSharp\SharpShellcodeObfus\SharpShellcodeObfus\obj\Debug\SharpShellcodeObfus.Properties.Resources.resources
+D:\protect\CSharp\SharpShellcodeObfus\SharpShellcodeObfus\obj\Debug\SharpShellcodeObfus.csproj.GenerateResource.cache
+D:\protect\CSharp\SharpShellcodeObfus\SharpShellcodeObfus\obj\Debug\SharpShellcodeObfus.csproj.CoreCompileInputs.cache
+D:\protect\CSharp\SharpShellcodeObfus\SharpShellcodeObfus\obj\Debug\SharpShellcodeObfus.exe
+D:\protect\CSharp\SharpShellcodeObfus\SharpShellcodeObfus\obj\Debug\SharpShellcodeObfus.pdb

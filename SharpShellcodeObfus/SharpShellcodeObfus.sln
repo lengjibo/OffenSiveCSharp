@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpShellcodeObfus", "SharpShellcodeObfus\SharpShellcodeObfus.csproj", "{0A26FA3A-D526-43FA-AFC1-5F83E6954948}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A26FA3A-D526-43FA-AFC1-5F83E6954948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A26FA3A-D526-43FA-AFC1-5F83E6954948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A26FA3A-D526-43FA-AFC1-5F83E6954948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A26FA3A-D526-43FA-AFC1-5F83E6954948}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF14E36C-E207-4369-8E8A-138CB09DBB29}
+	EndGlobalSection
+EndGlobal
